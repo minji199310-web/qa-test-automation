@@ -1,1 +1,1 @@
-# qa-test-automation
+#나의 QA 테스트 자동화 프로젝트
